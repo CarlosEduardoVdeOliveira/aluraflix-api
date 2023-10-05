@@ -209,13 +209,6 @@
       "color": "#b70dd9",
       "codigo": "fff",
       "id": 8
-    },
-    {
-      "name": "AI",
-      "description": "Todos os vídeo que uso para estudar AI.",
-      "color": "#b70cc9",
-      "codigo": "fff",
-      "id": 9
     }
   ]
 }
