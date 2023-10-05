@@ -185,6 +185,13 @@
       "color": "#9CD33B"
     },
     {
+      "name": "Big Data",
+      "description": "Todos vídeos sobre DB estarão nessa seção",
+      "color": "#2a9bc0",
+      "codigo": "db",
+      "id": "5"
+    },
+    {
       "id": "6",
       "name": "Data Science",
       "description": "Coisas de R e Python que venho aprendendo",
@@ -204,11 +211,11 @@
       "id": "8"
     },
     {
-      "name": "Big Data",
-      "description": "Todos vídeos sobre DB estarão nessa seção",
-      "color": "#2a9bc0",
-      "codigo": "db",
-      "id": "5"
+      "name": "Mobile",
+      "description": "Todos os vídeo que uso para estudar Mobile.",
+      "color": "#b70dd9",
+      "codigo": "fff",
+      "id": "9"
     }
   ]
 }
