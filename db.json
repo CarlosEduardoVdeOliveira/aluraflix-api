@@ -177,38 +177,6 @@
       "color": "#6fdc9e",
       "codigo": "1111",
       "id": 3
-    },
-    {
-      "id": 4,
-      "name": "Infraestrutura",
-      "description": "Tudo que estou aprendendo sobre Docker e muito mais",
-      "color": "#9CD33B"
-    },
-    {
-      "name": "Big Data",
-      "description": "Todos vídeos sobre DB estarão nessa seção",
-      "color": "#2a9bc0",
-      "codigo": "db",
-      "id": 5
-    },
-    {
-      "id": 6,
-      "name": "Data Science",
-      "description": "Coisas de R e Python que venho aprendendo",
-      "color": "#9CD33B"
-    },
-    {
-      "id": 7,
-      "name": "Inovação & Gestão",
-      "description": "Como manter o time feliz e muito mais",
-      "color": "#FF8C2A"
-    },
-    {
-      "name": "Mobile",
-      "description": "Todos os vídeo que uso para estudar Mobile.",
-      "color": "#b70dd9",
-      "codigo": "fff",
-      "id": 8
     }
   ]
 }
