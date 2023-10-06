@@ -7,38 +7,6 @@
       "thumbnail": "https://i.ytimg.com/vi/k77WZrvuDQU/sddefault.jpg",
       "category": "Front End",
       "description": "Recebemos o @DevSoutinho nesse Hipsters Ponto Tube para falar sobre as melhores práticas com React e como você pode aproveitar melhor as possibilidades dessa tecnologia no cenário atual. "
-    },
-    {
-      "id": 2,
-      "name": "Crie componentes DESSA FORMA no React (Pattern de composição)",
-      "link": "https://www.youtube.com/watch?v=oPOKpSFqy-I&ab_channel=Rocketseat",
-      "thumbnail": "https://i.ytimg.com/vi/oPOKpSFqy-I/maxresdefault.jpg",
-      "category": "Front End",
-      "description": "Dentro da nossa aplicação, por mais simples que ela seja, os componentes podem ter um número absurdo de customizações (que eu vou te mostrar no vídeo). 😂"
-    },
-    {
-      "id": 3,
-      "name": "Homem-Aranha - Sem Volta Para Casa",
-      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
-      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
-      "category": "Front End",
-      "description": "Descrição qualquer"
-    },
-    {
-      "id": 4,
-      "name": "Como sair do ZERO em Node.js",
-      "link": "https://www.youtube.com/watch?v=hHM-hr9q4mo&ab_channel=Rocketseat",
-      "thumbnail": "https://i.ytimg.com/vi/hHM-hr9q4mo/maxresdefault.jpg",
-      "category": "Back End",
-      "description": "O que você precisa saber para criar a sua primeira aplicação em Node.js?"
-    },
-    {
-      "id": 5,
-      "name": "Guia de Carreira JAVA",
-      "link": "https://www.youtube.com/watch?v=TUBqH9zVs3M&ab_channel=Alura",
-      "thumbnail": "https://i.ytimg.com/vi/TUBqH9zVs3M/maxresdefault.jpg",
-      "category": "Back End",
-      "description": "Com o Guia de Carreira Java, saiba o que é e para que serve o Java e descubra o passo a passo para sair do INICIANTE ao AVANÇADO. "
     }
   ],
   "categories": [
