@@ -16,19 +16,6 @@
       "color": "#2a5cf4",
       "codigo": "fdd",
       "id": 1
-    },
-    {
-      "id": 2,
-      "name": "Back End",
-      "description": "Todos os vídeo que estou usando para estudar Back End ",
-      "color": "#69953B"
-    },
-    {
-      "name": "UX Design",
-      "description": "Ferramentas e técnicas que estudo sobre design",
-      "color": "#6fdc9e",
-      "codigo": "1111",
-      "id": 3
     }
   ]
 }
