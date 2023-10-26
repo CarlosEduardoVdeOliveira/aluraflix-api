@@ -1,21 +1,22 @@
 {
-  "videos": [
-    {
-      "id": 1,
-      "name": "Quais as melhores práticas com React?",
-      "link": "https://www.youtube.com/watch?v=k77WZrvuDQU&ab_channel=Alura",
-      "thumbnail": "https://i.ytimg.com/vi/k77WZrvuDQU/sddefault.jpg",
-      "category": "Front End",
-      "description": "Recebemos o @DevSoutinho nesse Hipsters Ponto Tube para falar sobre as melhores práticas com React e como você pode aproveitar melhor as possibilidades dessa tecnologia no cenário atual. "
-    }
-  ],
+  
   "categories": [
     {
       "name": "Front End",
       "description": "Todos os vídeo da área de Front End.",
       "color": "#2a5cf4",
       "codigo": "fdd",
-      "id": 1
+      "id": 1,
+      "videos": [
+          {
+            "id": 1,
+            "name": "Quais as melhores práticas com React?",
+            "link": "https://www.youtube.com/watch?v=k77WZrvuDQU&ab_channel=Alura",
+            "thumbnail": "https://i.ytimg.com/vi/k77WZrvuDQU/sddefault.jpg",
+            "category": "Front End",
+            "description": "Recebemos o @DevSoutinho nesse Hipsters Ponto Tube para falar sobre as melhores práticas com React e como você pode aproveitar melhor as possibilidades dessa tecnologia no cenário atual. "
+          }
+       ]
     }
   ]
 }
